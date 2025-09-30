@@ -2,3 +2,5 @@
 .encrypt/
 .vscode/
 *.jsonl
+__pycache__/
+*.enc
